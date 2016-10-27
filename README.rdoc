@@ -1,9 +1,14 @@
-This is a finance tracker app for a Ruby Project.  
-
+Welcome to the finance tracker application I developed for a Ruby Project. 
 
 The finance tracker allows you to search for stocks and add them to portfolio. 
 The user also has an profile that can be updated.
 The user may search for and add friends.  The user can also view the friends profiles.
+
+Languages: Ruby,Javascript, JQuery, HTML5, CSS3, AJAX
+Framework: Rails
+Ruby Gems: 'devise','twitter-bootstrap-rails','devise-bootstrap-views','stock_quote'
+Database: SQLite3, PostGres
+Deployed on: Heroku 
 
 
 https://cloud.githubusercontent.com/assets/14047551/19778564/3024fe5a-9c32-11e6-99ea-7bc2aac6c6b6.png
