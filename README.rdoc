@@ -1,3 +1,19 @@
 This is a finance tracker app for a Ruby Project.  
 
-![alt text]()
+
+
+
+
+![alt text]("https://cloud.githubusercontent.com/assets/14047551/19778564/3024fe5a-9c32-11e6-99ea-7bc2aac6c6b6.png")
+
+![alt text]("https://cloud.githubusercontent.com/assets/14047551/19778568/36643f06-9c32-11e6-95c3-c4e7a0f2020d.png")
+
+![alt text]("https://cloud.githubusercontent.com/assets/14047551/19778574/3e43d59c-9c32-11e6-9cbc-f7e59d9f335e.png")
+
+![alt text]("https://cloud.githubusercontent.com/assets/14047551/19778584/4b0715a0-9c32-11e6-813e-b9c87ba6f51a.png")
+
+
+
+
+
+
