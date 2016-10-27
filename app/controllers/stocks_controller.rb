@@ -12,6 +12,7 @@ end
 
 if @stock
 
+
 render partial: 'lookup'
 
 else
