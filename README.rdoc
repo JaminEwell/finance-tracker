@@ -5,9 +5,13 @@ The user also has an profile that can be updated.
 The user may search for and add friends.  The user can also view the friends profiles.
 
 Languages: Ruby,Javascript, JQuery, HTML5, CSS3, AJAX
+
 Framework: Rails
+
 Ruby Gems: 'devise','twitter-bootstrap-rails','devise-bootstrap-views','stock_quote'
+
 Database: SQLite3, PostGres
+
 Deployed on: Heroku 
 
 
