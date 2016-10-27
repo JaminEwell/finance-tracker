@@ -1,6 +1,11 @@
 This is a finance tracker app for a Ruby Project.  
 
 
+The finance tracker allows you to search for stocks and add them to portfolio. 
+The user also has an profile that can be updated.
+The user may search for and add friends.  The user can also view the friends profiles.
+
+
 https://cloud.githubusercontent.com/assets/14047551/19778564/3024fe5a-9c32-11e6-99ea-7bc2aac6c6b6.png
 
 
@@ -24,3 +29,6 @@ https://cloud.githubusercontent.com/assets/14047551/19778584/4b0715a0-9c32-11e6-
 
 
 
+live deployed version on Heroku:
+
+https://jamin-finance-tracker.herokuapp.com
