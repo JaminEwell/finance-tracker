@@ -18,7 +18,7 @@ class Stock < ActiveRecord::Base
     new_stock
   end
   
-  def price
+  def self.price
     closing_price = StockQuote::Stock.quote(ticker).close
     return"#{closing_price} (Closing)" if closing_price
     
